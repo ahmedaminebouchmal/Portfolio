@@ -261,6 +261,6 @@ export const socialMedia = [
   {
     id: 2,
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/ahmed-amine-bouchmal-55a3b4287/",
+    link: "https://www.linkedin.com/in/ahmed-amine-bouchmal-b8b951344",
   },
 ];
